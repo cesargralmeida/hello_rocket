@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" 
+            content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" 
+            href="https://www.w3schools.com/w3css/4/w3.css">    
+    </head>
+    <body>
+      <h1>KUBER RUSTY PARROT</h1>
+        <p>
+            <img src="https://cultofthepartyparrot.com/parrots/rotatingparrot.gif" width="300px"></img>
+            <img src="https://cultofthepartyparrot.com/guests/hd/party-k8s.gif" width="300px"></img>
+            <img src="https://cultofthepartyparrot.com/parrots/hd/parrotmustache.gif" width="300px"></img>
+        </p>
+    </body>
+</html>
